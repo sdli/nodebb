@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img alt="NodeBB" src="http://i.imgur.com/mYxPPtB.png" />
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NodeBB/NodeBB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -78,3 +79,6 @@ Detailed upgrade instructions are listed in [Upgrading NodeBB](https://docs.node
 NodeBB is licensed under the **GNU General Public License v3 (GPL-3)** (http://www.gnu.org/copyleft/gpl.html).
 
 Interested in a sublicense agreement for use of NodeBB in a non-free/restrictive environment? Contact us at sales@nodebb.org.
+=======
+# nodebb
+>>>>>>> 4a659667f26ff8b60f8e8db02b238a1a1c41267b
